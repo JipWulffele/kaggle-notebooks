@@ -6,16 +6,19 @@ Welcome to my Kaggle Notebooks repository! This repository contains Jupyter note
 
 ### [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/cibmtr-equity)
 - **Goal:** Develop predictive models for post-hematopoietic cell transplantation (HCT) survival while addressing equity concerns.
+- **Notebook:** [`transplanting_data_into_insights.ipynb`](./notebooks/cibmtr_equity/transplanting_data_into_insights.ipynb)
 - **Approach:** Data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning models.
 
 ## 📂 Repository Structure
 ```
 📦 kaggle-notebooks
- ┣ 📂 notebooks/             # Kaggle notebooks organized by competition
- ┃ ┗ 📜 cibmtr_equity.ipynb  # Notebook for the CIBMTR competition
+ ┣ 📂 notebooks/              # Kaggle notebooks organized by competition
+ ┃ ┣ 📂 cibmtr_equity/        # CIBMTR competition folder
+ ┃ ┃ ┣ 📜 transplanting_data_into_insights.ipynb # Main notebook for the competition
+ ┃ ┃ ┣ 📜 pip_install_liberies.ipynb  # Notebook handling package installation
+ ┃ ┃ ┗ 📜 eefs_concordance_index.ipynb  # Helper notebook containing the competition evaluation metric
  ┣ 📜 README.md              # This file
- ┣ 📜 requirements.txt       # Dependencies (if needed)
- ┗ 📜 .gitignore             # Ignore unnecessary files
+ ┣ 📜 .gitignore             # Ignore unnecessary files
 ```
 
 ## 🚀 Getting Started
@@ -35,6 +38,10 @@ Welcome to my Kaggle Notebooks repository! This repository contains Jupyter note
    ```bash
    jupyter notebook
    ```
+4. **Using Helper Notebooks:**
+   - The main notebooks might rely on helper notebooks for reusable functions.
+   - `pip_install_liberies.ipynb` installs necessary packages when Kaggle’s internet is disabled.
+   - Ensure helper notebooks are present in `notebooks/xxx/` before running the main notebook.
 
 ## 📌 Future Plans
 - Add more notebooks from other Kaggle competitions.
