@@ -1,6 +1,7 @@
 # Kaggle-Notebooks
 
 Welcome to my Kaggle Notebooks repository! This repository contains Jupyter notebooks from various Kaggle competitions, where I explore data, build models, and analyze results.
+🗂️ Each competition folder also includes a `markdown` subfolder containing the code and output exported as markdown for easy viewing and sharing.
 
 ## 📌 Current Competitions
 
@@ -8,6 +9,11 @@ Welcome to my Kaggle Notebooks repository! This repository contains Jupyter note
 - **Goal:** Develop predictive models for post-hematopoietic cell transplantation (HCT) survival while addressing equity concerns.
 - **Notebook:** [`transplanting_data_into_insights.ipynb`](./notebooks/cibmtr_equity/transplanting_data_into_insights.ipynb)
 - **Approach:** Data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning models.
+
+### [Playground Series - Predicting Podcast Listening Time](https://www.kaggle.com/competitions/playground-series-s5e4/overview)
+- **Goal:** Predict listening times of podcast episodes.
+- **Notebook:** [`eda-ensemble-pytorch-xgboost-help-wanted.ipynb`](./notebooks/predict_podcast_listening_time/eda-ensemble-pytorch-xgboost-help-wanted.ipynb)
+- **Approach:** Data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning models (XGBoost & PyTorch).
 
 ## 📂 Repository Structure
 ```
