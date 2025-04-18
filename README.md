@@ -1,7 +1,6 @@
 # Kaggle-Notebooks
 
-Welcome to my Kaggle Notebooks repository! This repository contains Jupyter notebooks from various Kaggle competitions, where I explore data, build models, and analyze results.\
-🗂️ Each competition folder also includes a `markdown` subfolder containing the code and output exported as markdown for easy viewing and sharing.
+Welcome to my Kaggle Notebooks repository! This repository contains Jupyter notebooks from various Kaggle competitions, where I explore data, build models, and analyze results.Each competition folder also includes a `markdown` subfolder containing the code and output exported as markdown for easy viewing and sharing.
 
 ## 📌 Current Competitions
 
