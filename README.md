@@ -6,7 +6,7 @@ Welcome to my Kaggle Notebooks repository! This repository contains Jupyter note
 
 ### [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/cibmtr-equity)
 - **Goal:** Develop predictive models for post-hematopoietic cell transplantation (HCT) survival while addressing equity concerns.
-- **Notebook:** [`transplanting_data_into_insights.ipynb`](./cibmtr_equity/transplanting_data_into_insights.ipynb)
+- **Notebook:** [`transplanting_data_into_insights.ipynb`](./cibmtr_equity/transplanting-data-into-insights.ipynb)
 - **Approach:** Data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning models.
 
 ### [Playground Series - Predicting Podcast Listening Time](https://www.kaggle.com/competitions/playground-series-s5e4/overview)
