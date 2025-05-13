@@ -16,7 +16,7 @@ Welcome to my Kaggle Notebooks repository! This repository contains Jupyter note
 
 ### [Playground Series - Predict Calorie Expenditure](https://www.kaggle.com/competitions/playground-series-s5e5/overview)
 - **Goal:** Predict how many calories where burned during a workout.
-- **Notebook:** [`burining-calories-a-model-comparison-ridge-ensem.ipynb`](./notebooks/predict_calorie_expenditure/burining-calories-a-model-comparison-ridge-ensem.ipynb)
+- **Notebook:** [`burining-calories-a-model-comparison-ridge-ensem.ipynb`](./notebooks/predict_calorie_expenditure/burning-calories-a-model-comparison-ridge-ensem.ipynb)
 - **Approach:** Data preprocessing, exploratory data analysis (EDA), feature engineering, and machine learning models (various base models and ridge ensemble).
 
 ## 📂 Repository Structure
