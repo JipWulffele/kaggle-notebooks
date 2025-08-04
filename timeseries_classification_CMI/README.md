@@ -3,7 +3,10 @@
 ## 📌 Overview
 
 This project is my first time series classification project, developed for the Child Mind Institute's competition on detecting Body-Focused Repetitive Behaviors (BFRBs). The goal is to build a model that distinguishes BFRB-like gestures (e.g., hair pulling, nail biting) from everyday non-BFRB gestures (e.g., adjusting glasses), using multimodal sensor data collected from a custom wrist-worn device called **Helios**.
-[`Click here to go to the competition site`]([thtps://www.sktime.org/en/stable/](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/overview))
+
+## 🔗 Competition Link
+[Click here to go to the competition site](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/overview)
+
 
 Helios includes the following sensor types:
 - **Inertial Measurement Unit (IMU)** — acceleration and rotation data
