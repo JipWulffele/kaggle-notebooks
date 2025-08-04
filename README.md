@@ -1,11 +1,12 @@
 # Kaggle-Notebooks
 
-Welcome to my Kaggle Notebooks repository! This repository contains Jupyter notebooks from various Kaggle competitions, where I explore data, build models, and analyze results.Each competition folder also includes a `markdown` subfolder containing the code and output exported as markdown for easy viewing and sharing.
+Welcome to my Kaggle Notebooks repository! This repository contains Jupyter notebooks from various Kaggle competitions, where I explore data, build models, and analyze results. Each competition folder also includes a `markdown` subfolder containing the code and output exported as markdown for easy viewing and sharing.
 
 ## 📌 Current Competitions
 
 ### [CMI - Detect Behavior with Sensor Data](https://www.kaggle.com/competitions/cmi-detect-behavior-with-sensor-data/overview)
 - **Goal:** Classify body-focused repetitive behaviors (BFRBs) vs. non-BFRB gestures using multimodal wrist sensor data.
+- **Code:** [`timeseries_classification_CMI`](https://github.com/JipWulffele/kaggle-notebooks/tree/main/timeseries_classification_CMI)
 - **Approach:** Time series modeling with the `sktime` library, ensemble of classifiers, handedness normalization, and sensor-specific preprocessing.
 
 ### [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/cibmtr-equity)
